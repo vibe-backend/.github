@@ -23,7 +23,7 @@ This separation keeps natural-language input out of the request path and gives t
 | --- | --- |
 | [**sdk**](https://github.com/vibe-backend/sdk) | Rust runtime, `vibe` CLI, specifications, and technical documentation |
 | [**sample-shop**](https://github.com/vibe-backend/sample-shop) | Example storefront and evolving reference integration |
-| [**vibe-backend.github.io**](https://github.com/vibe-backend/vibe-backend.github.io) | Source for the project website |
+| [**vibe-backend.github.io**](https://github.com/vibe-backend/vibe-backend.github.io) | Deployment repository for the project website; content is built from sdk/site and sdk/docs |
 
 ## Get started
 
